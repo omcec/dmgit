@@ -245,8 +245,7 @@ Ao pesquisar um produto na tela de pré-vendas, é possível visualizar o estoqu
 
 Caso o cliente utilize o modelo de emissão de cupom [**NFCe**](https://dmaster.gitbook.io/base-de-conhecimento-dmaster/documentacao-interna/processos-internos/instalacao-do-nfc-e), o atalho para a tela de manutenção das notas ficará aparente no módulo e pode ser acessado utilizando o **F2** como aparece na imagem.
 
-![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FbNrAfSHg5YUHGSXHZxCk%252FMicrosoftTeams-image%2520%282%29.png%3Falt%3Dmedia%26token%3D3d347006-db32-4d76-ac4a-0e23078d3085\&width=300\&dpr=4\&quality=100\&sign=5196d2fa\&sv=2)\
-
+![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FbNrAfSHg5YUHGSXHZxCk%252FMicrosoftTeams-image%2520%282%29.png%3Falt%3Dmedia%26token%3D3d347006-db32-4d76-ac4a-0e23078d3085\&width=300\&dpr=4\&quality=100\&sign=5196d2fa\&sv=2)<br>
 {% endtab %}
 {% endtabs %}
 
@@ -403,8 +402,7 @@ A efetivação do orçamento é realizada quando o cliente irá levar os produto
 
 ![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252Fvhb3PzVfvyIDJ1x846R6%252FEfetivar%2520orcamento.png%3Falt%3Dmedia%26token%3D11e56a52-8578-433e-ade5-06aa575fe39a\&width=300\&dpr=4\&quality=100\&sign=d4d51257\&sv=2)
 
-![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FNckB97cIXuewkbnAes4C%252FOrcamento%2520efetivado.png%3Falt%3Dmedia%26token%3D07f1c6b8-40eb-40b8-80ab-2267844ecc34\&width=300\&dpr=4\&quality=100\&sign=301c3abd\&sv=2)\
-
+![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FNckB97cIXuewkbnAes4C%252FOrcamento%2520efetivado.png%3Falt%3Dmedia%26token%3D07f1c6b8-40eb-40b8-80ab-2267844ecc34\&width=300\&dpr=4\&quality=100\&sign=301c3abd\&sv=2)<br>
 {% endtab %}
 
 {% tab title="Tab 2" %}
@@ -509,8 +507,7 @@ Após a inclusão da informação necessária, basta teclar **Esc**, e depois em
 
 Em todo momento em que o usuário for consultar um Turno de caixa que estiver com alguma observação salva, o sistema irá mostrar a mensagem com o que foi salvo no **F1**.
 
-![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FqbRwuZbY35Q6X1i8E3CS%252Fimage.png%3Falt%3Dmedia%26token%3D9d188d50-e93b-4e85-a241-4de17576e958\&width=300\&dpr=4\&quality=100\&sign=257fce65\&sv=2)\
-
+![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FqbRwuZbY35Q6X1i8E3CS%252Fimage.png%3Falt%3Dmedia%26token%3D9d188d50-e93b-4e85-a241-4de17576e958\&width=300\&dpr=4\&quality=100\&sign=257fce65\&sv=2)<br>
 {% endtab %}
 
 {% tab title="Tab 2" %}
@@ -552,8 +549,7 @@ Abrirá um tela de confirmação, bastando clicar em Sim.
 
 Pronto, a troca do entregador foi finalizada, e no grid, já estará informando o novo entregador para a venda.
 
-![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FJGSl2lskQcbUkyyXeAF1%252Fimage.png%3Falt%3Dmedia%26token%3D76400a37-f0a6-4102-997c-c0ce28fb4530\&width=300\&dpr=4\&quality=100\&sign=2f80c130\&sv=2)\
-
+![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FJGSl2lskQcbUkyyXeAF1%252Fimage.png%3Falt%3Dmedia%26token%3D76400a37-f0a6-4102-997c-c0ce28fb4530\&width=300\&dpr=4\&quality=100\&sign=2f80c130\&sv=2)<br>
 {% endtab %}
 
 {% tab title="Tab 2" %}
@@ -816,8 +812,7 @@ Para excluir uma conta, basta selecionar a mesma e utilizar a tecla “+” para
 
 **Observação:** só é possível excluir contas **Em aberto**. Uma vez excluída não é possível restaurar a conta, caso seja feita a exclusão de maneira incorreta, deverá ser feito o lançamento novamente.
 
-![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FbMvA3zlI3EHCmAUiUrBs%252Fimage.png%3Falt%3Dmedia%26token%3D55012e98-c94d-4a3b-9797-71a16f358068\&width=300\&dpr=4\&quality=100\&sign=facb3d6c\&sv=2)\
-
+![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FbMvA3zlI3EHCmAUiUrBs%252Fimage.png%3Falt%3Dmedia%26token%3D55012e98-c94d-4a3b-9797-71a16f358068\&width=300\&dpr=4\&quality=100\&sign=facb3d6c\&sv=2)<br>
 {% endtab %}
 
 {% tab title="Tab 2" %}
@@ -1018,8 +1013,7 @@ Para gravar a nota, é necessário que os produtos estejam como verificados, ap�
 
 Após isso o sistema irá gerar um relatório de entrada, que é a ficha de entrada.
 
-![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252Fm78MNmNXioG9mTbkFCde%252Fimage.png%3Falt%3Dmedia%26token%3Da74ac4a2-84c9-4256-86c6-ea8a95972aca\&width=300\&dpr=4\&quality=100\&sign=73f3c331\&sv=2)\
-
+![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252Fm78MNmNXioG9mTbkFCde%252Fimage.png%3Falt%3Dmedia%26token%3Da74ac4a2-84c9-4256-86c6-ea8a95972aca\&width=300\&dpr=4\&quality=100\&sign=73f3c331\&sv=2)<br>
 {% endtab %}
 
 {% tab title="Tab 2" %}
@@ -1071,8 +1065,7 @@ Clicar em **Sim** para editar, e a pré–entrada será carregada na tela.
 
 Após carregada, utilizar a tecla **Del** e clicar em **Sim** na mensagem de confirmação para realizar o cancelamento da mesma.
 
-![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252F5WNerjGyo3QCK1SWV1ZK%252Fimage.png%3Falt%3Dmedia%26token%3De0292fee-b590-4d0e-bf8e-b5251e904764\&width=300\&dpr=4\&quality=100\&sign=c4909c73\&sv=2)\
-
+![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252F5WNerjGyo3QCK1SWV1ZK%252Fimage.png%3Falt%3Dmedia%26token%3De0292fee-b590-4d0e-bf8e-b5251e904764\&width=300\&dpr=4\&quality=100\&sign=c4909c73\&sv=2)<br>
 {% endtab %}
 
 {% tab title="Tab 2" %}
@@ -1208,8 +1201,7 @@ Caso seja necessário acessar o cadastro do produto através da tela de auditori
 
 Após realizar alterações em produtos através do módulo de auditoria, são gerados logs no relatório de registro de eventos. O log de alteração do produto, sempre será salvo na MATRIZ. O log de auditoria da entrada, sempre será salvo na loja que possui o registro de entrada daquela nota.
 
-![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FAUt9UEs6RLR5MnNzxKu4%252FRegistro%2520de%2520eventos%2520auditoria%2520nf.PNG%3Falt%3Dmedia%26token%3D76631693-6f2d-433e-900b-a89dcb511cf4\&width=300\&dpr=4\&quality=100\&sign=1e923825\&sv=2) ![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FBo72Eo6R9KpIfL5E4nkB%252FRegistro%2520de%2520eventos%2520produtos.PNG%3Falt%3Dmedia%26token%3Db328f96c-f06b-44f4-819a-366544f8e7d7\&width=300\&dpr=4\&quality=100\&sign=b8612c31\&sv=2)\
-
+![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FAUt9UEs6RLR5MnNzxKu4%252FRegistro%2520de%2520eventos%2520auditoria%2520nf.PNG%3Falt%3Dmedia%26token%3D76631693-6f2d-433e-900b-a89dcb511cf4\&width=300\&dpr=4\&quality=100\&sign=1e923825\&sv=2) ![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FBo72Eo6R9KpIfL5E4nkB%252FRegistro%2520de%2520eventos%2520produtos.PNG%3Falt%3Dmedia%26token%3Db328f96c-f06b-44f4-819a-366544f8e7d7\&width=300\&dpr=4\&quality=100\&sign=b8612c31\&sv=2)<br>
 {% endtab %}
 
 {% tab title="Tab 2" %}
@@ -1251,8 +1243,7 @@ Para realizar ajuste de estoque, é necessário selecionar o **Evento (1)**, inf
 
 ![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252F4KxYAqG6nvhlqQlQIJYH%252Fimage.png%3Falt%3Dmedia%26token%3Df99a5c31-3bb4-46ce-ba67-bc79bb30f009\&width=300\&dpr=4\&quality=100\&sign=8b017963\&sv=2)
 
-Esta opção é visível apenas para sistema com parâmetro de permissão de venda com quantidade maior que estoque habilitada. Ao clicar no botão **Ajustar (1)**, o sistema irá zerar o estoque de todos os produtos que estão com estoque negativo no momento. Ao marcar o parâmetro **Ajustar e Desativar (2)**, e clicar no botão **Ajustar (1)**, além de zerar o estoque dos produtos negativos, o sistema irá inativá-los.\
-
+Esta opção é visível apenas para sistema com parâmetro de permissão de venda com quantidade maior que estoque habilitada. Ao clicar no botão **Ajustar (1)**, o sistema irá zerar o estoque de todos os produtos que estão com estoque negativo no momento. Ao marcar o parâmetro **Ajustar e Desativar (2)**, e clicar no botão **Ajustar (1)**, além de zerar o estoque dos produtos negativos, o sistema irá inativá-los.<br>
 {% endtab %}
 
 {% tab title="Tab 2" %}
@@ -1371,8 +1362,7 @@ Para realizar o cancelamento de uma transferência, é preciso inserir o **núme
 
 Quando é realizada o cancelamento de uma transferência, caso seja digitado o número do documento da mesma, é gerada a mensagem **Transferência Cancelada**. Com isso, o usuário irá saber a situação daquela transferência em questão.
 
-![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FFiL4i6JjWPH5sMFIBzHE%252FTransferencia%2520cancelada.png%3Falt%3Dmedia%26token%3Dafdd487e-418f-45ac-9162-5f9cb17cc7d3\&width=768\&dpr=4\&quality=100\&sign=7c463fe9\&sv=2)\
-
+![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FFiL4i6JjWPH5sMFIBzHE%252FTransferencia%2520cancelada.png%3Falt%3Dmedia%26token%3Dafdd487e-418f-45ac-9162-5f9cb17cc7d3\&width=768\&dpr=4\&quality=100\&sign=7c463fe9\&sv=2)<br>
 {% endtab %}
 
 {% tab title="Tab 2" %}
@@ -1418,8 +1408,7 @@ O valor da venda de cartão de crédito, geralmente é recebido 30 dias após a 
 
 O valor da venda de cartão de débito, geralmente é recebido 2 dias após a venda. Com isso, ao filtrar os registros por vencimento e emissão, as datam pode ser diferentes, como mostrado nas imagens abaixo.
 
-![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FIQfw4sAfLRGNDfgE50hw%252FDebito%2520por%2520vencimento.png%3Falt%3Dmedia%26token%3Defae01c0-86de-4d3f-b857-5cf636aece44\&width=768\&dpr=4\&quality=100\&sign=676c20d1\&sv=2)![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FF4FPQ8UR92jKNey4IYh2%252FDebito%2520por%2520emissao.png%3Falt%3Dmedia%26token%3D877939fc-bb45-4288-a467-bbd3a9bcd187\&width=768\&dpr=4\&quality=100\&sign=538001a5\&sv=2)\
-
+![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FIQfw4sAfLRGNDfgE50hw%252FDebito%2520por%2520vencimento.png%3Falt%3Dmedia%26token%3Defae01c0-86de-4d3f-b857-5cf636aece44\&width=768\&dpr=4\&quality=100\&sign=676c20d1\&sv=2)![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FF4FPQ8UR92jKNey4IYh2%252FDebito%2520por%2520emissao.png%3Falt%3Dmedia%26token%3D877939fc-bb45-4288-a467-bbd3a9bcd187\&width=768\&dpr=4\&quality=100\&sign=538001a5\&sv=2)<br>
 {% endtab %}
 
 {% tab title="Tab 2" %}
@@ -1451,8 +1440,7 @@ Ao selecionar o status **Baixados (1)** e informar o **Período de vencimento (2
 
 Após o cheque ser compensado, é necessário fazer a baixa do registro. Para isso, basta clicar sobre o mesmo, utilizar a tecla + para marcá-lo (conforme mostrado na marcação 1) e clicar em **Baixar (2)**. Na tela de confirmação, clicar em **Sim (3)** e o registro será baixado.
 
-![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FHEYeJl5hOJOxlym0weDe%252FBaixar.png%3Falt%3Dmedia%26token%3D81daaa4c-be44-4030-86ba-b1133a2ad860\&width=768\&dpr=4\&quality=100\&sign=9f1e0689\&sv=2)\
-
+![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FHEYeJl5hOJOxlym0weDe%252FBaixar.png%3Falt%3Dmedia%26token%3D81daaa4c-be44-4030-86ba-b1133a2ad860\&width=768\&dpr=4\&quality=100\&sign=9f1e0689\&sv=2)<br>
 {% endtab %}
 
 {% tab title="Tab 2" %}

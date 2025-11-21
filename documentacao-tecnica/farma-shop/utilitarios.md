@@ -10,7 +10,7 @@ description: Neste menu contém os utilitários que serão utilizados pelo estab
 {% tab title="Etiquetas" %}
 Módulo utilizado para realizar impressão de etiquetas de preço de produto.
 
-<figure><img src="../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 Neste módulo, é possível realizar a impressão de etiquetas do seguintes modelos:
 
@@ -22,11 +22,11 @@ Neste módulo, é possível realizar a impressão de etiquetas do seguintes mode
 
 É possível realizar impressão de etiqueta de produtos de determinada nota de entrada. Para isso, é necessário pesquisar a mesma, inserindo seu número no campo Nº da NF e clicando em localizar. Após o processo anterior, aparecerá no campo fornecedor, os demais dados da nota, onde deverá ser selecionado para que os produtos sejam carregados. Para a pesquisa, ainda é possível utilizar o parâmetro **exibir apenas os produtos que tiveram alteração do preço de venda / promoção.** Caso ele seja marcado, apenas serão exibidos no grid, produtos que pertencem a nota pesquisada com alteração de preço. Se desmarcado, serão exibidos todos os produtos que pertencem a nota pesquisada.
 
-<figure><img src="../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 Após selecionar o fornecedor, os produtos da nota serão carregados no grid, para que seja realizado o processo de impressão das etiquetas.
 
-<figure><img src="../../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
 Para realizar a impressão, é necessário selecionar o tipo de etiqueta e clicar em imprimir.&#x20;
 
@@ -38,11 +38,11 @@ Para realizar a impressão, é necessário selecionar o tipo de etiqueta e clica
 
 Outra forma para realizar impressão de etiquetas, é por produto, ou seja, lançando um a um. Para isso, é necessário pesquisar o produto no campo código, e ao selecionar o mesmo, as informações de descrição e fabricante serão preenchidas automaticamente, sendo necessário inserir apenas a quantidade, que refere-se a quantidade de etiquetas que serão impressas.
 
-<figure><img src="../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
 Após realizar os processos anteriores, clicar em ok e o produto será lançado no grid. Repetir o processo para cada produto que deverá ser impressa etiqueta.
 
-<figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
 Para realizar a impressão das etiquetas, é necessário selecionar o tipo de etiqueta. Para etiquetas de preço, é necessário configurar linha e coluna para impressão.
 
@@ -50,7 +50,7 @@ Após realizar as configurações necessárias, clicar em imprimir e as etiqueta
 
 #### Excluir produto <a href="#excluir-produto" id="excluir-produto"></a>
 
-<figure><img src="../../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
 Para excluir um produto do grid, é necessário desmarcar o mesmo, utilizando a tecla \[ - ] e clicar em Excluir.
 
@@ -68,25 +68,25 @@ Ao marcar o tipo Etiqueta de gôndola, é possível realizar algumas configuraç
 {% tab title="Programação de ofertas" %}
 Módulo utilizado para criar ofertas de produtos com data definida de início e término.
 
-<figure><img src="../../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
 **Incluindo nova programação**
 
 Para criar uma oferta, é preciso pesquisar o produto no campo código, inserir a porcentagem de desconto ou preço de promoção, definir uma data de início e término da oferta e clicar em ok. <mark style="color:red;">**\*Este passo deve ser realizado para cada produto a ser lançado.**</mark>
 
-<figure><img src="../../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
 Após o passo anterior, o produto será lançado no grid, sendo necessário apenas clicar em gravar e a oferta será criada.
 
-<figure><img src="../../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
 Caso o início da oferta seja no dia corrente, o sistema deve ser reiniciado para que a alteração seja concluída.
 
-<figure><img src="../../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
 Ao abrir o sistema na data de início da oferta, é apresentada uma mensagem de aviso informando sobre a mesma. Se clicar em sim, a oferta iniciará naquele momento, clicando em não o produto continuará fora da oferta.
 
-<figure><img src="../../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
 Ao abrir o sistema no dia de término da oferta, é exibida uma mensagem para confirmar o término ou adiar o término da oferta, sendo a escolha do usuário. Em caso de adiar o término, deve ser acessado o módulo de programação de ofertas novamente e fazer o processo de prorrogar término da oferta.
 
@@ -94,15 +94,15 @@ Ao abrir o sistema no dia de término da oferta, é exibida uma mensagem para co
 
 Para realizar a exclusão de uma oferta, é necessário marcar o registro utilizando a tecla \[ + ] e clicar em excluir.
 
-<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 É possível prorrogar o término da oferta. Para isso, é necessário marcar o registro do produto utilizando a tecla \[ + ], inserir a data do término e utilizar a tecla F2 para concluir.
 
-<figure><img src="../../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
 Se marcado o parâmetro manter desconto atual no final do período na criação da oferta, ao expirar ou excluí-la, o desconto atual se mantém, ou seja, caso o produto já tenha um preço com desconto cadastrado, esse irá se manter.
 
-<figure><img src="../../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Tab 2" %}
@@ -116,47 +116,47 @@ Se marcado o parâmetro manter desconto atual no final do período na criação 
 {% tab title="Manutenção de produtos" %}
 Módulo utilizado para realizar alterações de preço, comissão e status em vários produtos simultaneamente, utilizando filtros.
 
-<figure><img src="../../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
 Neste módulo, é possível pesquisar o produto por descrição, código interno, código de barras ou código Abcfarma, através do campo. Pode ser realizado o filtro por Situação, Classe/Sub-Classe e Fabricante.
 
-<figure><img src="../../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
 Após pesquisar o produto, é necessário clicar em localizar e o mesmo será lançado no grid. Com o produto lançado, agora é possível realizar alterações utilizando as funções do módulo.
 
 As formas de alteração de preço do produto são por reajuste positivo, ou negativo e até mesmo inserindo preço de promoção. Para realizar as alterações, é necessário alguns passos. Esses serão explicados a seguir.
 
-<figure><img src="../../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 O reajuste positivo é utilizado para aumentar o preço de venda do produto. Para isso, é necessário inserir um valor em porcentagem, selecionar o parâmetro \[%], marcar o parâmetro reajuste positivo, clicar em aplicar e o preço do produto será alterado.&#x20;
 
 <mark style="color:red;">**Observação:**</mark> <mark style="color:red;"></mark><mark style="color:red;">o processo de reajuste é utilizado apenas com valor em porcentagem.</mark>
 
-<figure><img src="../../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
 O reajuste negativo é utilizado para diminuir o preço de venda do produto. Para isso, é necessário inserir um valor em porcentagem, selecionar o parâmetro \[%], marcar o parâmetro reajuste negativo, clicar em aplicar e o preço do produto será alterado.&#x20;
 
 <mark style="color:red;">**Observação:**</mark> <mark style="color:red;"></mark><mark style="color:red;">o processo de reajuste é utilizado apenas com valor em porcentagem.</mark>
 
-<figure><img src="../../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
 
 
 É possível realizar alteração na porcentagem de comissão do produto. Para isso, é necessário inserir um valor em porcentagem, selecionar o parâmetro \[%], marcar o parâmetro comissão, clicar em aplicar e a porcentagem de comissão será aplicada no cadastro do produto. Para retirar o valor de comissão, é necessário informar o valor 0.
 
-<figure><img src="../../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 
 A alteração de preço também pode ser realizada inserindo valor em real. Desta maneira é possível apenas aumentar o preço do produto ou inserir preço de promoção. Para realizar as alterações, é necessário alguns passos. Esses serão explicados a seguir.
 
 A alteração de preço é utilizada para ajustar o preço de venda do produto, positiva ou negativamente. Para isso, é necessário inserir um valor em real, selecionar o parâmetro \[$], marcar o parâmetro alteração de preço, clicar em aplicar e o preço do produto será alterado.
 
-<figure><img src="../../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
 O preço de promoção pode ser alterado inserindo valor em real ou porcentagem. Para realizar essa alteração, é necessário alguns passos. Esses serão explicados a seguir.
 
 O preço de promoção é utilizado para inserir ou zerar o valor de promoção do produto. Para isso, é necessário inserir um valor em real ou em porcentagem, selecionar o parâmetro \[%] ou \[$], marcar o parâmetro promoção, clicar em aplicar e o preço de promoção do produto será alterado.
 
-<figure><img src="../../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
 Com o produto lançado no grid, é possível visualizar as informações do mesmo. São elas:
 
@@ -169,17 +169,17 @@ Com o produto lançado no grid, é possível visualizar as informações do mesm
 7. Preço de farmácia popular;
 8. Estoque atual.
 
-<figure><img src="../../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
 Neste módulo, também é possível ativar ou inativar produtos. Com o produto lançado no grid, é necessário selecionar o mesmo, clicando sobre ele e utilizar a tecla F5. Caso o produto esteja ativo o processo irá inativá-lo e vice versa. Ao clicar sobre o produto, selecionando o mesmo serão mostradas algumas informações. São elas: código interno e custo médio do produto.
 
-<figure><img src="../../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
 Ao realizar busca de produtos ou utilizar filtros, os produtos mostrados no grid, são apenas os ativos no sistema. Para realizar a busca de todos os produtos é necessário utilizar o parâmetro consulta geral, para que sejam mostrados os produtos ativos e inativos.
 
 É possível realizar alteração de preço de venda, promoção e preço de farmácia popular clicando sobre os campos e inserindo o valor manualmente. Para isso, é necessário duplo click no campo desejado e o mesmo ficará editável, sendo possível inserir o valor.
 
-<figure><img src="../../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 Todas as alterações realizadas neste módulo, são aplicadas a todos os produtos que são exibidos no grid no momento da pesquisa.
 {% endtab %}
@@ -195,11 +195,11 @@ Todas as alterações realizadas neste módulo, são aplicadas a todos os produt
 {% tab title="Inventário" %}
 Módulo utilizado para realizar contagem de estoque dos produtos do estabelecimento.
 
-<figure><img src="../../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
 Na tela inicial do módulo, é possível visualizar as informações de tipo de inventário, situação do inventário, aberto por, data de abertura, finalizado por, data de finalização. Essas informações serão explicadas a seguir.
 
-<figure><img src="../../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -235,7 +235,7 @@ Para iniciar um novo inventário, é necessário selecionar o tipo: geral, parci
 
 Após clicar em iniciar o inventário, será aberta um nova tela, onde serão lançados os produtos e sua respectiva quantidade de estoque.
 
-<figure><img src="../../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
 
 Para lançar um produto, é necessário utilizar o código interno, código de barras ou descrição do mesmo. Para isso, é utilizado o campo código. Ao selecionar o produto, algumas informações são preenchidas automaticamente, são elas:
 
@@ -250,19 +250,19 @@ Após clicar em ok, o item será lançado no grid com as seguintes informações
 * Informações cadastrais do produto (código interno, descrição e fabricante);
 * Quantidade de estoque informada pelo usuário.
 
-<figure><img src="../../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
 #### Exclusão de item <a href="#exclusao-de-item" id="exclusao-de-item"></a>
 
 Para excluir um produto do inventário, é necessário selecionar o mesmo e utilizar a tecla Del. Será apresentada uma mensagem de confirmação, sendo necessário apenas clicar em sim e o produto será excluído do inventário.
 
-<figure><img src="../../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
 #### Localizar produto lançado <a href="#localizar-produto-lancado" id="localizar-produto-lancado"></a>
 
 Caso tenha muitos produtos lançados no inventário e seja necessário localizar um deles, é possível utilizar a tecla F2. Na tela aberta, inserir a descrição do produto, utilizar a tecla enter ou clicar em ok e o produto será selecionado.
 
-<figure><img src="../../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
 
 #### Finalização do inventário <a href="#finalizacao-do-inventario" id="finalizacao-do-inventario"></a>
 
@@ -278,19 +278,19 @@ Para realizar a finalização, é preciso utilizar o botão finalização do inv
 
 A mensagem abaixo informa que o sistema está com o parâmetro de vender quantidade maior que estoque disponível habilitado. Para desabilitar, deve ser acessado o módulo de configurações gerais do sistema.
 
-<figure><img src="../../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 
 A próxima mensagem é um alerta para que o usuário feche o sistema em outros computadores que estejam em uso.
 
-<figure><img src="../../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
 A última mensagem de alerta é a confirmação para que a finalização do inventário seja concluída.
 
-<figure><img src="../../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
 Após todas as mensagens anteriores, agora será necessário definir o que acontecerá com o estoque dos produtos não contados:
 
-<figure><img src="../../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
 
 * **Manter o estoque atual:** será mantido o estoque atual de todos os produtos que não foram contados no inventário;
 * **Zerar o estoque atual:** será zerado o estoque de todos os produtos que não foram contados no inventário e os produtos serão inativados.
@@ -314,33 +314,33 @@ Após definir sobre o estoque dos produtos não contados, o inventário é final
 
 Caso seja necessário cancelar um inventário, é necessário clicar no botão cancelar inventário, na tela inicial do módulo. Com isso, o estoque atual de todos os produtos será mantido.
 
-<figure><img src="../../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
 Após o cancelamento, a situação do inventário será alterada para CANCELADO e os campos finalizado por e data da finalização serão alterados para cancelado por e data do cancelamento, como mostrado abaixo.
 
-<figure><img src="../../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
 #### Produto já lançado <a href="#produto-ja-lancado" id="produto-ja-lancado"></a>
 
 Caso um usuário tente lançar um produto que já foi contado por outra pessoa, o sistema apresentará uma mensagem de alerta, como mostrado abaixo.
 
-<figure><img src="../../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
 Se for lançado um produto que já tenha sido lançado por aquele usuário, o sistema irá apresentar a mensagem ao lado, informando qual a quantidade contada anteriormente, qual a quantidade a ser somada e qual o saldo final. Ao confirmar a mensagem, a quantidade será atualizada no inventário.
 
-<figure><img src="../../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
 Caso o usuário tenha realizado a contagem incorreta e o estoque do produto ficar negativo após a finalização do inventário, o sistema apresentará uma mensagem de alerta e irá gerar um relatório com os produtos, para que o usuário realize a correção do estoque destes produtos. Para corrigir, é necessário excluir o produto do inventário e lançar novamente com a quantidade de estoque correta.
 
-<figure><img src="../../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
 É possível gerar alguns relatórios antes da finalização do inventário, são eles: itens lançados no inventário e produtos não contados, onde cada um será explicado separadamente a seguir.
 
 * **Itens do inventário:** o relatório de itens lançados no inventário possui duas opções:
 
-<figure><img src="../../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
 
 **Produtos contados:** é gerado um relatório de todos os produtos lançados no inventário;
 
@@ -462,8 +462,7 @@ Módulo utilizado para importar a tabela de produtos de PBM para o sistema.
 
 Ao acessar o módulo, é gerada uma mensagem de confirmação, sendo necessário clicar em sim. Em seguida, será aberta a tela para selecionar a tabela dos produtos que se encontra na pasta MBHSist e clicar em abrir. Após os processos acima, a importação da tabela será realizada.
 
-\
-
+<br>
 
 <figure><img src="https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FXN5e3uQpEC41ROrL67fG%252FArquivo%2520PBm.png%3Falt%3Dmedia%26token%3D1efc2bfe-7dd1-4542-a0bd-841d276c6e87&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=b529fd12&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
@@ -790,8 +789,7 @@ Para realizar o cadastro de Filiais, o parâmetro Estab. Administrador ficará d
 
 #### Exclusão de registro <a href="#exclusao-de-registro" id="exclusao-de-registro"></a>
 
-Caso seja necessário excluir um registro, é necessário pesquisar a loja pelo código, obrigatoriamente, e clicar em Excluir.\
-
+Caso seja necessário excluir um registro, é necessário pesquisar a loja pelo código, obrigatoriamente, e clicar em Excluir.<br>
 {% endtab %}
 
 {% tab title="Tab 2" %}
@@ -809,8 +807,7 @@ Módulo utilizado para sincronizar as informação das lojas cadastradas no mód
 
 Após a conclusão do processo, será exibida a mensagem abaixo.
 
-\
-
+<br>
 
 <figure><img src="https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FaDevSYdzcWgekqWHUUiH%252FSincronizacao%2520realizada.png%3Falt%3Dmedia%26token%3D6e770fea-0e53-4e44-9ddc-7ed6a38f5c4b&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=88c76749&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 {% endtab %}
@@ -868,8 +865,7 @@ Após buscar o certificado digital, inserir a senha do mesmo e clicar em carrega
 
 <figure><img src="https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FIdiQtOatlwm2OiUt8gN3%252FInformacoes.png%3Falt%3Dmedia%26token%3Daf5a2bc3-28a4-4454-bfc4-2141d66569dc&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=2676ad21&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">**Observação:**</mark> o processo de gravação pode ser demorado, pois o sistema precisará enviar os dados da loja para a DMASTER e para o Portal Invoisys. Esse processo depende da conexão do estabelecimento.\
-
+<mark style="color:red;">**Observação:**</mark> o processo de gravação pode ser demorado, pois o sistema precisará enviar os dados da loja para a DMASTER e para o Portal Invoisys. Esse processo depende da conexão do estabelecimento.<br>
 {% endtab %}
 
 {% tab title="Tab 2" %}
@@ -915,8 +911,7 @@ A imagem que aparece ao lado é a que será associada ao cadastro. Caso queira s
 
 A aba de Pesquisa, é utilizada para verificar os arquivos digitalizados para o cliente. Para isso, é necessário digitar o CPF do cliente, utilizar a tecla Enter e o nome será preenchido. Após o processo anterior, todos os arquivos associados ao cliente serão mostrados no grid. Caso a tela seja aberta ao fazer uma venda de Farmácia Popular, é necessário clicar sobre o registro de receita e clicar em selecionar.
 
-\
-
+<br>
 
 <figure><img src="https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FubL4ZemDzLvz4WLw0RV6%252FPesquisa.png%3Falt%3Dmedia%26token%3Dd743aefc-36d9-4822-8b84-183eac91aec7&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=a7a1d2cf&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 {% endtab %}

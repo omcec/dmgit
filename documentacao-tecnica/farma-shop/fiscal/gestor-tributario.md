@@ -745,8 +745,7 @@ O erro também pode ocorrer se houver algum caractere especial no cadastro do de
 #### Inscrição Estadual do Destinatário não informada
 
 O erro abaixo ocorre quando a Inscrição Estadual do destinatário não foi informada no cadastro do mesmo.\
-Para correção, é preciso informar a Inscrição Estadual correta no cadastro do destinatário.\
-
+Para correção, é preciso informar a Inscrição Estadual correta no cadastro do destinatário.<br>
 
 <figure><img src="https://981618378-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FaHl55K4HG6CuWy9zUjR9%2Fuploads%2FPnpl66cXCWkz03eYSOgI%2FErro%20NFe.png?alt=media&#x26;token=670a449d-6c83-4b90-82bd-7c9fd6550315" alt=""><figcaption></figcaption></figure>
 {% endtab %}

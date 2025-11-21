@@ -6,7 +6,6 @@ aceita.\
 Observação: Estas informações são utilizadas apenas para impressora fiscal.&#x20;
 
 \
-\
+<br>
 
-
-<figure><img src="../../../.gitbook/assets/Captura de tela 2025-06-06 151857.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2025-06-06 151857.png" alt=""><figcaption></figcaption></figure>

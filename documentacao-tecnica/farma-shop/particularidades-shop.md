@@ -17,7 +17,7 @@ Esse tipo de configuração é utilizado quando o estabelecimento possui uma bal
     <figure><img src="https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FDijU83WaJIvX7twkbeR1%252Fbalanca%2520acoplada.png%3Falt%3Dmedia%26token%3D1b619d04-9e42-410e-a67d-c9da565f3c1a&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=861cbbc6&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 4. Após realizar a configuração, é necessário copiar o arquivo **captura peso** da pasta **MCecf** para a pasta **inicializar do windows**. Executar o aplicativo e ele deve ficar **carregado próximo ao relógio**. &#x20;
 
-<figure><img src="../../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -37,8 +37,7 @@ Após colocar o peso na balança, pesquisar o produto na tela de vendas do Dmast
 
 <figure><img src="https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FwshJsqWeNozj3CVovbrX%252FPeso%2520.png%3Falt%3Dmedia%26token%3D59adfbd1-af76-4bb3-a5a9-d425d93b2e29&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=e2d255bb&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 {% endtab %}
 
 {% tab title="Tab 2" %}
@@ -78,7 +77,7 @@ Após inserir as informações no ConfigECF, também é necessário configurar n
 
 
 
-<figure><img src="../../../.gitbook/assets/balança (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/balança (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Utilização <a href="#utilizacao-1" id="utilizacao-1"></a>
 
@@ -88,8 +87,7 @@ Após realizar as configurações anteriores, ao digitar o código impresso na e
 
 <figure><img src="https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FEIjkUoNCWOOaH2RIWhXv%252Fcodigo.png%3Falt%3Dmedia%26token%3Dab9eeed1-4b75-4274-9323-5f2e7346db45&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=e3114667&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
-[\
-](https://981618378-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FaHl55K4HG6CuWy9zUjR9%2Fuploads%2FvieZCUKwCDjJOYujhGGR%2FParticularidades%20DMASTER%20SHOP.pdf?alt=media\&token=5bb487cb-bda0-4689-acc7-cdf36b9fdaef)
+[<br>](https://981618378-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FaHl55K4HG6CuWy9zUjR9%2Fuploads%2FvieZCUKwCDjJOYujhGGR%2FParticularidades%20DMASTER%20SHOP.pdf?alt=media\&token=5bb487cb-bda0-4689-acc7-cdf36b9fdaef)
 {% endtab %}
 
 {% tab title="Tab 2" %}
@@ -123,7 +121,7 @@ A configuração é realizada pelo setor comercial.
 
     <figure><img src="https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FhcE2OtTJVq8pOC0esT2p%252FParcelamento%2520de%2520clientes.png%3Falt%3Dmedia%26token%3D9edd3153-0d7d-43fe-9709-c51bf1c1ebd6&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=7046c5b5&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 3. Após o processo acima, o boleto será aberto para impressão.
 
 #### Registro de boleto <a href="#registro-de-boleto" id="registro-de-boleto"></a>
@@ -150,7 +148,7 @@ No dia seguinte ao processo de registrar o boleto, é feito o processo de baixa.
 
 **Observação:** O arquivo de baixa pode conter retorno de boletos pagos ou rejeitados.
 
-<figure><img src="../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FndBK6bHZ0bJ20MF42NTe%252FBaixa%2520com%2520arquivp.png%3Falt%3Dmedia%26token%3Df4a1f2b1-4020-4d62-b963-cf4a2fe029cf&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=c6d71c8a&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 {% endtab %}

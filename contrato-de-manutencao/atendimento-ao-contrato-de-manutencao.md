@@ -1,41 +1,86 @@
 # Atendimento ao Contrato de Manutenção
 
-### **Computador do cliente não liga (Sem sinal de energia)**
+O processo de atendimento de solicitações sobre Contrato de Manutenção tem como objetivo fornecer um suporte inicial rápido e eficaz aos clientes com contratos de manutenção de equipamentos ativos. A equipe de suporte deve atuar no diagnóstico e solução básica dos problemas mais comuns, seguindo procedimentos predefinidos. Seu papel é maximizar a resolução na primeira chamada ou, caso o problema persista ou exija intervenção técnica mais aprofundada, escalonar a ocorrência de forma eficiente para a equipe de Manutenção.
 
-#### Procedimento de Diagnóstico Básico:
+#### Ações Chave:
 
-1. Verificação de Energia: Realizar os procedimentos básicos para diagnosticar problemas de fornecimento de energia (cabo, tomada, estabilizador) ou falha na fonte (travamento).
-2. Sinal de Processamento: Verificar com o cliente se existe algum sinal de processamento da máquina (luzes acesas, ventoinhas funcionando ou sons de inicialização).
-3. Avaliação do Monitor: Se o equipamento demonstrar sinais de processamento, mas não exibir imagem, avaliar se o problema está relacionado exclusivamente ao monitor, pois o reparo/suporte a este componente não é coberto pelo contrato de manutenção.
+* Diagnóstico Básico de Hardware (energia, inicialização) .
+* Testes de Conectividade de Rede (físico e lógico).
+* Suporte à Instalação de Impressoras.
+* Teste Básico de Periféricos (teclado, mouse, monitor - não cobertos pelo contrato).
+* Auxílio em Acesso a Sites Essenciais.
 
-* Computador do cliente liga e para na tela de Setup – Realizar o procedimento básico de sair da BIOS, garantindo que o computador prossiga com o processo de inicialização. Caso esta ação não solucione o problema, deve-se abrir um chamado junto ao setor de manutenção.
-* Computador do cliente liga mas não inicia o sistema operacional – Realizar o ciclo de energia básico (desligar o equipamento, aguardar um tempo e religar). Caso o problema persista, abrir um chamado para o setor de manutenção.
+Escalonamento: O chamado é transferido para a Manutenção sempre que o procedimento básico não solucionar o problema ou a falha estiver relacionada a aplicativos, componentes internos complexos ou exigência de substituição de peças. Em casos de falhas críticas, deve ser providenciada uma máquina substituta para garantir a continuidade da operação do cliente.
 
-### **Computador do cliente liga mas não conecta na internet ou rede.**
+***
 
-#### Diagnóstico Básico de Conectividade de Rede
+**Procedimentos de Diagnóstico por Tipo de Incidente**
 
-* Reinicialização de Equipamentos: Desligar e religar os equipamentos de rede (roteadores, switches).
-* Verificação Física: Desconectar e reconectar os cabos de rede em todas as extremidades.
-* Diagnóstico Lógico: Realizar o diagnóstico de rede utilizando ferramentas apropriadas disponíveis no sistema operacional.
-* Verificação de Endereçamento:
+**1. Computador Não Liga (Sem Sinal de Energia)**
 
-1. Verificar a faixa de endereços IP das estações de trabalho.
-2. Detectar possíveis conflitos de IP ou conexões em sub-redes/redes lógicas diferentes.
+* Etapa Procedimento de Diagnóstico Básico\
+  \&#xNAN;_**1.1. Verificação de Energia:**_ Realizar testes básicos no fornecimento de energia: verificar cabos, tomadas, estabilizador/nobreak e diagnosticar possíveis falhas na fonte de alimentação.\
+  \&#xNAN;_**1.2. Sinal de Processamento:**_ Confirmar com o cliente a presença de qualquer sinal de atividade da máquina (luzes acesas, ventoinhas em funcionamento ou sons de inicialização).\
+  \&#xNAN;_**1.3. Avaliação do Monitor:**_ Se o equipamento tiver sinal de processamento, mas não exibir imagem, deve-se verificar se o problema é exclusivamente no monitor, uma vez que este componente não está coberto pelo contrato de manutenção.
 
-* Defeitos em periféricos – Problemas com teclado, mouse, monitor e leitor de código de barras exigem realizar procedimentos básicos de teste, uma vez que estes dispositivos não são cobertos pelo contrato.
+**2. Computador Liga e Para em Tela Específica**
 
-#### **Instalação de impressora**
+* **Para na Tela de Setup (BIOS)**
 
-* Análise da Solicitação: Verificar se a instalação está relacionada à utilização de recursos específicos do sistema, como emissão de etiquetas ou digitalização de documentos (Ex: Farmácia Popular), que exigem configurações adicionais no sistema.
-* Execução: Se a resposta for positiva, realizar a instalação e as configurações adicionais necessárias no sistema. Caso a instalação seja simples e sem requisitos específicos, realizar o processo.
-* Escalonamento: Se o procedimento de instalação apresentar qualquer dificuldade ou erro, encaminhar a solicitação ao setor de manutenção.
-* Problema em aplicativos básicos do sistema operacional – Abrir chamado para setor de manutenção.
-* Problemas de acesso a sites de uso cotidiano – Para problema de acesso a sites essenciais para operação da loja, como (Farmácia Popular, SNGPC, Consulta Nfe/NFCe) realizar o auxilio básico. Caso o problema persista e esteja relacionado a um mau funcionamento do computador, abra um chamado para o setor de manutenção.
-* Problema de compartilhamento de arquivos – Realize as verificações básicas utilizando as ferramentas e informações disponíveis para o suporte. Caso não haja êxito na solução abrir um chamado para setor de manutenção.
+Orientar o cliente a realizar o procedimento padrão para sair da BIOS e garantir a sequência de inicialização. Se a saída da BIOS não solucionar, abrir chamado para a Manutenção.
+
+* **Liga, mas Não Inicia o S.O.**
+
+Realizar o ciclo de energia básico (desligar o equipamento, aguardar brevemente e religar). Se o problema persistir após o ciclo de energia, abrir chamado para a Manutenção.
+
+**3. Problemas de Conectividade (Internet ou Rede)**
+
+* **Reinicialização de Equipamentos**
+
+Orientar a reinicialização dos equipamentos de rede primários (roteadores e/ou switches).
+
+* **Verificação Física**
+
+Instruir o cliente a desconectar e reconectar os cabos de rede em todas as extremidades.
+
+* **Diagnóstico Lógico**
+
+Realizar o diagnóstico de rede utilizando as ferramentas apropriadas disponíveis no Sistema Operacional.
+
+* **Verificação de Endereçamento (IP)**
+
+Verificar a faixa de endereços IP das estações para detectar possíveis conflitos ou conexões em sub-redes/redes lógicas diferentes.
 
 {% hint style="warning" %}
-<mark style="color:red;">**Observação: Em todos os casos em que o problema não puder ser resolvido pelo atendimento primário (via chamado), realizar o seguinte procedimento:**</mark>
-
-<mark style="color:red;">**Identificar o tipo de equipamento afetado (servidor ou caixa) e providenciar a configuração de uma máquina substituta a fim de garantir o funcionamento contínuo do sistema na loja até a solução definitiva do problema pelo setor de manutenção.**</mark>
+<mark style="color:red;">**Caso as verificações básicas não restabeleçam a conexão, abrir chamado para a Manutenção.**</mark>
 {% endhint %}
+
+**4. Suporte a Periféricos e Impressoras**
+
+* **Defeitos em Periféricos**
+
+Problemas em teclado, mouse, monitor e leitor de código de barras exigem a execução de procedimentos básicos de teste e diagnóstico. <mark style="color:red;">**Atenção:**</mark> Estes dispositivos não são cobertos pelo contrato de manutenção.
+
+* **Instalação de Impressora**
+
+1. **Análise da Solicitação:** Verificar se a instalação exige configurações adicionais para recursos específicos do sistema (ex: emissão de etiquetas, digitalização, sistemas como Farmácia Popular).
+2. **Execução:** Se houver requisitos especiais, realizar a instalação com as configurações adicionais. Se for uma instalação simples, prosseguir.
+3. **Escalonamento:** Em caso de qualquer dificuldade, erro na instalação ou configuração, encaminhar a solicitação à Manutenção.
+
+**5. Suporte a Sistemas e Aplicações**
+
+* **Problema em Aplicativos Básicos do S.O.:** Abrir chamado diretamente para a Manutenção.
+* **Problemas de Acesso a Sites Essenciais:** Realizar o auxílio básico para acesso a sites cruciais para a operação da loja (ex: Farmácia Popular, SNGPC, Consulta NFe/NFCe) - Caso o problema persista e esteja relacionado a mau funcionamento do computador, abrir chamado para a Manutenção.
+* **Problema de Compartilhamento de Arquivos:** Realizar verificações básicas utilizando as ferramentas e informações disponíveis para o suporte - Se não houver êxito na solução, abrir chamado para a Manutenção.
+
+**6. Procedimento de Escalonamento e Garantia de Continuidade**
+
+Em todos os casos em que o problema não puder ser resolvido pelo atendimento primário (via chamado), deve-se executar o seguinte procedimento:
+
+1. **Identificar o equipamento afetado** (Servidor ou Caixa).
+2. **Registrar/encaminhar um chamado detalhando a ocorrência com o equipamento para a equipe de Manutenção**
+
+{% hint style="danger" %}
+Em todos os casos que o atendimento de primeiro nível não conseguir sanar o problema, deve ser registrado/encaminhado
+{% endhint %}
+

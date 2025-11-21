@@ -19,8 +19,7 @@ Você pode habilitar o .NET Framework 3.5 por meio do Painel de Controle do Wind
 
 Referencia: [https://learn.microsoft.com/pt-br/dotnet/framework/install/dotnet-35-windows](https://learn.microsoft.com/pt-br/dotnet/framework/install/dotnet-35-windows)
 
-\
-
+<br>
 {% endhint %}
 
 2. Alterar nome da máquina(Servidor, Caixa..., Terminal..);
@@ -70,4 +69,4 @@ Copiar arquivos/pastas, para ai sim realizar a instalações dos sistemas;
 
 
 
-\
+<br>

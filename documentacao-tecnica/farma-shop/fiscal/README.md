@@ -332,8 +332,7 @@ Após a emissão da NF-e, o destinatário pode ter algumas ações sobre ela, qu
 
 A inutilização de número de NF-e tem a finalidade de permitir que o emissor comunique à SEFAZ, até o décimo dia do mês subsequente, os números de NF-e que não serão utilizados em razão de ter ocorrido uma quebra de sequência da numeração da NF-e. A inutilização de número só é possível caso a numeração ainda não tenha sido utilizada em nenhuma NF-e (autorizada, cancelada ou denegada).
 
-**Fonte:** [**Portal da Nota Fiscal Eletrônica**](https://www.nfe.fazenda.gov.br/portal/principal.aspx)\
-
+**Fonte:** [**Portal da Nota Fiscal Eletrônica**](https://www.nfe.fazenda.gov.br/portal/principal.aspx)<br>
 {% endtab %}
 
 {% tab title="Utilização Dmaster" %}
@@ -379,8 +378,7 @@ Para realizar a configuração do NF-e é necessário:
 O certificado digital modelo **A1**, utilizado pelo sistema de emissor de nota fiscal eletrônica pode ser utilizado de duas formas:
 
 1. Importado no sistema Dmaster Farma/shop, através do módulo **Utilitários > Empresa > Certificado Digital & NFC-e**;
-2. Instalado no computador. \
-
+2. Instalado no computador. <br>
 
 Nas duas situações, o sistema irá reconhecer o certificado para ser utilizado na geração das notas fiscais eletrônicas.
 
@@ -587,8 +585,7 @@ Quando é emitida uma carta de correção, os arquivos PDF e XML serão gerados 
 
 No sistema, é possível emitir um relatório com as informações de todas as notas geradas e suas respectivas situações. Para isso, é utilizada a opção **F10.**
 
-\
-
+<br>
 
 <figure><img src="https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FNmqU7xBg2N0HegRcPemt%252FRelat%25C3%25B3rio.PNG%3Falt%3Dmedia%26token%3D010909cd-942f-46fc-838d-7490ffdcb235&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=fcc89a16&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 {% endtab %}
@@ -871,8 +868,7 @@ Após realizar alterações fiscais pelo módulo do gestor tributário, serão g
 
 Caso o produto tenha sido alterado pelo gestor tributário e depois o cliente altere as informações fiscais manualmente, será gerado o registro no relatório de registro de eventos, de acordo com a imagem abaixo.
 
-![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252F0BVJmnUIP93jiCYXZMI4%252FRegistro%2520de%2520eventos%2520alteracao.png%3Falt%3Dmedia%26token%3D0d240416-92fb-4c01-b5b3-d0ddc47735da\&width=768\&dpr=4\&quality=100\&sign=c03e644a\&sv=2)\
-
+![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252F0BVJmnUIP93jiCYXZMI4%252FRegistro%2520de%2520eventos%2520alteracao.png%3Falt%3Dmedia%26token%3D0d240416-92fb-4c01-b5b3-d0ddc47735da\&width=768\&dpr=4\&quality=100\&sign=c03e644a\&sv=2)<br>
 {% endtab %}
 
 {% tab title="Tab 2" %}
@@ -917,8 +913,7 @@ Após confirmar a exportação, será solicitado o destino de salvamento da plan
 
 Após confirmar o processo, será solicitado que o usuário selecione o arquivo .csv já ajustado. Após selecionar o arquivo e clicar em abrir, as informações serão importadas para o sistema.
 
-![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FoyFGMXZ3PxiNkOBn3QnX%252FPlanilha%2520invalidos.png%3Falt%3Dmedia%26token%3D5b8523b2-01d5-482d-af60-5053f8b37e98\&width=768\&dpr=4\&quality=100\&sign=338a9ad9\&sv=2)\
-
+![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FoyFGMXZ3PxiNkOBn3QnX%252FPlanilha%2520invalidos.png%3Falt%3Dmedia%26token%3D5b8523b2-01d5-482d-af60-5053f8b37e98\&width=768\&dpr=4\&quality=100\&sign=338a9ad9\&sv=2)<br>
 {% endtab %}
 
 {% tab title="Tab 2" %}

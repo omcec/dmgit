@@ -4,16 +4,15 @@
 **A partir de 14 de fevereiro de 2025, o Programa Farmácia Popular passou a disponibilizar gratuitamente 100% dos medicamentos e insumos de seu elenco à população brasileira.** O programa atende 12 indicações, contemplando medicamentos para [**hipertensão**](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/h/hipertensao), [**diabetes**](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/diabetes), [**asma**](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/asma), osteoporose, dislipidemia (colesterol alto), rinite, doença de Parkinson, glaucoma, diabetes mellitus associada a doenças cardiovasculares e anticoncepção. Além disso, oferece fraldas geriátricas para pessoas com incontinência e absorventes higiênicos para beneficiárias do Programa Dignidade Menstrual.
 {% endhint %}
 
-[https://www.gov.br/saude/pt-br/composicao/sectics/farmacia-popular/arquivos/elenco-de-medicamentos-e-insumos.pdf](https://www.gov.br/saude/pt-br/composicao/sectics/farmacia-popular/arquivos/elenco-de-medicamentos-e-insumos.pdf)\
-
+[https://www.gov.br/saude/pt-br/composicao/sectics/farmacia-popular/arquivos/elenco-de-medicamentos-e-insumos.pdf](https://www.gov.br/saude/pt-br/composicao/sectics/farmacia-popular/arquivos/elenco-de-medicamentos-e-insumos.pdf)<br>
 
 ## Novo modelo de acesso ao Portal do Programa Farmácia Popular do Brasil
 
-{% file src="../../../../.gitbook/assets/Informe - Novo modelo de acesso ao Portal.pdf" %}
+{% file src="../../../.gitbook/assets/Informe - Novo modelo de acesso ao Portal.pdf" %}
 
 ## Informe sobre intercambialidade de medicamentos
 
-{% file src="../../../../.gitbook/assets/intercambialidade-de-medicamentos.pdf" %}
+{% file src="../../../.gitbook/assets/intercambialidade-de-medicamentos.pdf" %}
 
 ## Codigo de barras 2025&#x20;
 

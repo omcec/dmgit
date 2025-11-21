@@ -55,7 +55,8 @@
       * [Erros](documentacao-tecnica/frente-de-caixa/nfce/erros.md)
     * [PBM's](documentacao-tecnica/frente-de-caixa/pbms/README.md)
       * [Farmácia Popular](documentacao-tecnica/frente-de-caixa/pbms/farmacia-popular.md)
-* [Documentação Interna](documentacao-interna.md)
+* [Contrato de Manutenção](contrato-de-manutencao/README.md)
+  * [Atendimento ao Contrato de Manutenção](contrato-de-manutencao/atendimento-ao-contrato-de-manutencao.md)
 
 ## Troca de CNPJ
 
@@ -202,5 +203,5 @@
 ***
 
 * [Instalando o PowerShell 2.0](instalando-o-powershell-2.0.md)
-* [Contrato de Manutenção](contrato-de-manutencao/README.md)
-  * [Atendimento ao Contrato de Manutenção](contrato-de-manutencao/atendimento-ao-contrato-de-manutencao.md)
+* [Contrato de Manutenção](contrato-de-manutencao-1/README.md)
+  * [Atendimento ao Contrato de Manutenção](contrato-de-manutencao-1/atendimento-ao-contrato-de-manutencao.md)

@@ -114,8 +114,7 @@ Abaixo serão listados e explicados cada parâmetro do controle de acessos.
 
 Caso o usuário não tenha acesso a determinado módulo, ao tentar acessá-lo, é exibida a mensagem, como mostrado abaixo.
 
-\
-
+<br>
 
 <figure><img src="https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252Fw4iY38qowKkBQLKhIpUB%252FAcesso%2520negado.png%3Falt%3Dmedia%26token%3D45defd43-b8dd-4685-9be6-b321ba7718b3&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=61ef05c8&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 {% endtab %}
@@ -587,8 +586,7 @@ Na tela de pré-vendas, o kit deve ser pesquisado pelo código interno ou descri
 
 #### Exclusão <a href="#exclusao-4" id="exclusao-4"></a>
 
-Para excluir um kit misto, é necessário pesquisar o mesmo, selecionar um produto por vez e clicar em Excluir. Com todos os produtos excluídos, o kit não existirá mais.\
-
+Para excluir um kit misto, é necessário pesquisar o mesmo, selecionar um produto por vez e clicar em Excluir. Com todos os produtos excluídos, o kit não existirá mais.<br>
 {% endtab %}
 
 {% tab title="Tab 2" %}
@@ -624,8 +622,7 @@ Após cadastrado, deverá acessar o cadastro dos produtos e informar no campo **
 
 Conforme a imagem abaixo, foi cadastrado um grupo de sugestão e associado aos produtos **Benegrip** e **Decongex**. No lançamento de um dos itens na pré-venda, automaticamente o sistema abrirá uma nova tela com a sugestão do outro produto, sendo necessário apenas utilizar a tecla **Enter** no produto escolhido caso o cliente queira, ou utilizar **Esc** para abandonar a sugestão.
 
-![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FxHKQMKmjWP2jjEwH8NtC%252FVenda.PNG%3Falt%3Dmedia%26token%3D0cad8e44-7e1a-4a0c-ae4b-10cc0abfc3a0\&width=768\&dpr=4\&quality=100\&sign=28e19174\&sv=2)\
-
+![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FxHKQMKmjWP2jjEwH8NtC%252FVenda.PNG%3Falt%3Dmedia%26token%3D0cad8e44-7e1a-4a0c-ae4b-10cc0abfc3a0\&width=768\&dpr=4\&quality=100\&sign=28e19174\&sv=2)<br>
 {% endtab %}
 
 {% tab title="Tab 2" %}
@@ -809,8 +806,7 @@ Ao tentar realizar venda de um produto da classe vetada para o cliente do convê
 
 #### Exclusão <a href="#exclusao-8" id="exclusao-8"></a>
 
-Para excluir um cadastro de um convênio, é necessário apenas localiza-lo e clicar em **Excluir**. **Observação:** a exclusão só pode ser realizada caso não possua nenhum cliente associado a ele e não tenha nenhuma movimentação para aquele convênio, ou seja, nenhuma venda realizada com o mesmo.\
-
+Para excluir um cadastro de um convênio, é necessário apenas localiza-lo e clicar em **Excluir**. **Observação:** a exclusão só pode ser realizada caso não possua nenhum cliente associado a ele e não tenha nenhuma movimentação para aquele convênio, ou seja, nenhuma venda realizada com o mesmo.<br>
 {% endtab %}
 
 {% tab title="Tab 2" %}
@@ -868,8 +864,7 @@ Para pesquisar clientes bloqueados utilizando o nome, é preciso iniciar a pesqu
 
 Para realizar a exclusão de um cliente, não pode haver movimentações para o cliente em questão.
 
-Após buscar o cliente, clicar no botão **Excluir**. Caso não seja possível excluir, este deve ser **bloqueado**. Dessa forma, não será possível efetuar vendas para este cliente.\
-
+Após buscar o cliente, clicar no botão **Excluir**. Caso não seja possível excluir, este deve ser **bloqueado**. Dessa forma, não será possível efetuar vendas para este cliente.<br>
 {% endtab %}
 
 {% tab title="Tab 2" %}
@@ -897,8 +892,7 @@ Para a criação dos tipos de despesa, o sistema já possui uma categoria para v
 * Retirada/Pró-Labore
 * IR/CSLL
 
-![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252F3eglxX1Qohbz1lYqciVm%252FTela%2520inicial.PNG%3Falt%3Dmedia%26token%3Dbba2863a-4ba1-4c1e-8543-bf3b1c0696c9\&width=768\&dpr=4\&quality=100\&sign=d56ae52d\&sv=2)\
-
+![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252F3eglxX1Qohbz1lYqciVm%252FTela%2520inicial.PNG%3Falt%3Dmedia%26token%3Dbba2863a-4ba1-4c1e-8543-bf3b1c0696c9\&width=768\&dpr=4\&quality=100\&sign=d56ae52d\&sv=2)<br>
 {% endtab %}
 
 {% tab title="Tab 2" %}
@@ -962,8 +956,7 @@ Módulo utilizado para o cadastro de ICMS interestadual. Este cadastro é utiliz
 
 ![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FU1gEHVFlsxIAZ4qnsQtQ%252FICMS%2520interestadual.png%3Falt%3Dmedia%26token%3Dfcb5f951-234e-4e69-b326-114bae7322d0\&width=768\&dpr=4\&quality=100\&sign=bc4eec6\&sv=2)
 
-Para realizar o cadastro, é necessário apenas selecionar a UF, inserir o valor da alíquota e clicar em gravar.\
-
+Para realizar o cadastro, é necessário apenas selecionar a UF, inserir o valor da alíquota e clicar em gravar.<br>
 {% endtab %}
 {% endtabs %}
 
@@ -983,8 +976,7 @@ Para abertura de um novo chamado, basta preencher com nome, selecionar o sistema
 
 Quando não se tem o programa TeamViewer instalado, ou o mesmo está em uma versão não compatível com a do suporte DMASTER, para maior facilidade, basta clicar em Solicitar Suporte Remoto, que após confirmação, será aberto o executável do TeamViewer DMASTER, que os técnicos terão acesso.
 
-![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252F56skpaHiOKStKAvslvje%252FTeam%2520viewer.PNG%3Falt%3Dmedia%26token%3D73266141-3f04-4895-a7f3-a9b777e2f54b\&width=768\&dpr=4\&quality=100\&sign=8a9ea9a6\&sv=2)\
-
+![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252F56skpaHiOKStKAvslvje%252FTeam%2520viewer.PNG%3Falt%3Dmedia%26token%3D73266141-3f04-4895-a7f3-a9b777e2f54b\&width=768\&dpr=4\&quality=100\&sign=8a9ea9a6\&sv=2)<br>
 {% endtab %}
 {% endtabs %}
 

@@ -13,7 +13,7 @@ Apresentação
 {% tab title="Apresentação" %}
 Este módulo será utilizado para realizar o cadastro de apresentação, concentração, unidade embalagem e forma farmacêutica e em seguida associar estes cadastros aos produtos. Essas informações, serão utilizadas no módulo [Gestor de compras](https://dmaster.gitbook.io/base-de-conhecimento-dmaster/documentacao-interna/documentacao-tecnica/farma-shop/compras#gestor-de-compras) que será explicado posteriormente.
 
-<figure><img src="../../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
 #### Cadastro de concentração <a href="#cadastro-de-concentracao" id="cadastro-de-concentracao"></a>
 
@@ -134,7 +134,7 @@ Após o processo acima, será aberta uma nova tela onde serão listados todos os
 
 Através do cadastro do produto, também é possível verificar a qual apresentação o produto está associado.
 
-<figure><img src="../../../.gitbook/assets/Captura de tela 2025-06-05 090238 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2025-06-05 090238 (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Explicação do "Apresentação"" %}
@@ -230,8 +230,7 @@ Ainda nesse módulo, é possível alterar a data de previsão de entrega, caso s
 
 #### Exclusão <a href="#exclusao" id="exclusao"></a>
 
-Para realizar a exclusão de um registro, é necessário selecioná-lo e logo após clicar no botão ![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FFpHhojS2XwwHuIm1wTHD%252FDeletar%2520encomenda.png%3Falt%3Dmedia%26token%3Db3b60028-d12c-491b-a43f-2b4a89cc7075\&width=189\&dpr=4\&quality=100\&sign=4acf9ecc\&sv=2)ou utilizar a tecla **\[Delete].** Após esse processo, confirmar a exclusão para concluir.\
-
+Para realizar a exclusão de um registro, é necessário selecioná-lo e logo após clicar no botão ![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FFpHhojS2XwwHuIm1wTHD%252FDeletar%2520encomenda.png%3Falt%3Dmedia%26token%3Db3b60028-d12c-491b-a43f-2b4a89cc7075\&width=189\&dpr=4\&quality=100\&sign=4acf9ecc\&sv=2)ou utilizar a tecla **\[Delete].** Após esse processo, confirmar a exclusão para concluir.<br>
 {% endtab %}
 
 {% tab title="F2" %}
@@ -824,8 +823,7 @@ Para realizar o cancelamento do pedido, é preciso selecionar o registro desejad
 
 Ao iniciar o sistema é exibida uma central de notificações do gestor de compras, ou seja, são exibidas as quantidades de cada registo de cotação e pedido de compra pendentes. O processo para habilitar as notificações é feito como foi descrito em [Configuração](https://dmaster.gitbook.io/base-de-conhecimento-dmaster/documentacao-interna/documentacao-tecnica/farma-shop/compras#configuracao).
 
-![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FLMy6Le1clFBPfFV0BdaM%252FNotificacoes.png%3Falt%3Dmedia%26token%3Dc6cfa814-f9c3-40be-86f7-c0b263338fcb\&width=768\&dpr=4\&quality=100\&sign=e7ee416b\&sv=2)\
-
+![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FLMy6Le1clFBPfFV0BdaM%252FNotificacoes.png%3Falt%3Dmedia%26token%3Dc6cfa814-f9c3-40be-86f7-c0b263338fcb\&width=768\&dpr=4\&quality=100\&sign=e7ee416b\&sv=2)<br>
 {% endtab %}
 
 {% tab title="Tab 2" %}
@@ -851,11 +849,11 @@ A planilha em Excel é gerada como mostrado abaixo:
 
 Este botão é utilizado para enviar a cotação realizada para as distribuidoras. O envio da cotação para as distribuidoras é feito através da SmartPed, onde é feita a comunicação com as distribuidoras e verificação do melhor preço de compra para aqueles produtos.
 
-Ao clicar no botão enviar cotação <img src="../../../.gitbook/assets/image (50).png" alt="" data-size="line">, será aberta uma nova tela, onde será possível alterar o prazo de pagamento para aquela cotação ou ajustar o prazo de pagamento padrão e concluir o envio.
+Ao clicar no botão enviar cotação <img src="../../.gitbook/assets/image (50).png" alt="" data-size="line">, será aberta uma nova tela, onde será possível alterar o prazo de pagamento para aquela cotação ou ajustar o prazo de pagamento padrão e concluir o envio.
 
-<figure><img src="../../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">A tela de alterar o prazo de pagamento, possivelmente foi tirada do ar.</mark>
 
@@ -1198,8 +1196,7 @@ Com os dados da nota carregados na tela, se utilizar a tecla ESC, é exibida uma
 
 Se tentar realizar a entrada de uma nota que já foi realizada a entrada anteriormente, o sistema exibe a mensagem abaixo e ao clicar em sim, a ficha de entrada é aberta.
 
-![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FtaW9wBRix8vcXVk5p0y9%252FNota%2520ja%2520lan%25C3%25A7ada.png%3Falt%3Dmedia%26token%3D16de1ffb-06ad-46a6-bbef-2d2310fc019b\&width=768\&dpr=4\&quality=100\&sign=aab4d090\&sv=2)\
-
+![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FtaW9wBRix8vcXVk5p0y9%252FNota%2520ja%2520lan%25C3%25A7ada.png%3Falt%3Dmedia%26token%3D16de1ffb-06ad-46a6-bbef-2d2310fc019b\&width=768\&dpr=4\&quality=100\&sign=aab4d090\&sv=2)<br>
 {% endtab %}
 
 {% tab title="Tab 2" %}
@@ -1287,8 +1284,7 @@ Após realizar alterações em produtos através do módulo de auditoria, são g
 
 <figure><img src="https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FBo72Eo6R9KpIfL5E4nkB%252FRegistro%2520de%2520eventos%2520produtos.PNG%3Falt%3Dmedia%26token%3Db328f96c-f06b-44f4-819a-366544f8e7d7&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=6c30089c&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 <figure><img src="https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FAUt9UEs6RLR5MnNzxKu4%252FRegistro%2520de%2520eventos%2520auditoria%2520nf.PNG%3Falt%3Dmedia%26token%3D76631693-6f2d-433e-900b-a89dcb511cf4&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=4b824e70&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 {% endtab %}
@@ -1342,8 +1338,7 @@ Para realizar a exclusão de uma nota, é necessário informar o **CNPJ** do for
 
 Com a nota carregada, é necessário clicar no botão **Excluir NF** e então, será aberta a tela de confirmação, bastando clicar em **Sim** e o registro de entrada da nota será excluído.
 
-![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FLCqaYuh1CB0T9xxQBSdX%252FExclusao%2520de%2520nota.png%3Falt%3Dmedia%26token%3Da142b381-a0d6-48ad-a36c-ff7230e30d8d\&width=768\&dpr=4\&quality=100\&sign=e0b9120b\&sv=2)\
-
+![](https://dmaster.gitbook.io/~gitbook/image?url=https%3A%2F%2F981618378-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaHl55K4HG6CuWy9zUjR9%252Fuploads%252FLCqaYuh1CB0T9xxQBSdX%252FExclusao%2520de%2520nota.png%3Falt%3Dmedia%26token%3Da142b381-a0d6-48ad-a36c-ff7230e30d8d\&width=768\&dpr=4\&quality=100\&sign=e0b9120b\&sv=2)<br>
 {% endtab %}
 
 {% tab title="Tab 2" %}

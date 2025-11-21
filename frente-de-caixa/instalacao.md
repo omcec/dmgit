@@ -6,8 +6,7 @@
 
 <div><figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure></div>
 
-1.2. Verificar se o arquivo de instalação **setupTerminal.exe** encontra-se na pasta **MCUtil.**\
-
+1.2. Verificar se o arquivo de instalação **setupTerminal.exe** encontra-se na pasta **MCUtil.**<br>
 
 <figure><img src="../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
 
@@ -48,8 +47,7 @@ Todas as opções já estarão marcadas como padrão, mas é orientado a verific
 
 <figure><img src="../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
 
-2.6. Marcar todos os sistemas que estão e/ou irão ser configurados neste terminal e clicar em **“Gravar”.**\
-
+2.6. Marcar todos os sistemas que estão e/ou irão ser configurados neste terminal e clicar em **“Gravar”.**<br>
 
 <figure><img src="../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
 

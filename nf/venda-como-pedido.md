@@ -2,8 +2,7 @@
 
 A venda sendo gerada como **pedido**, a finalidade da nota fiscal deverá ser **venda de mercadoria dentro ou fora do estado**, e não como substituição de cupom fiscal
 
-Caso o pedido seja gerado como substituição de cupom fiscal, apresentará o erro abaixo.\
-
+Caso o pedido seja gerado como substituição de cupom fiscal, apresentará o erro abaixo.<br>
 
 <mark style="color:red;">DMASTER Farma</mark>
 
