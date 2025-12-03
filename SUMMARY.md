@@ -147,6 +147,7 @@
     * [Venda de controlado com PBM](sngpc/integracao-farma-e-sngpc/utilizacao/venda-de-controlado-com-pbm.md)
     * [Impressão dos dados da receita](sngpc/integracao-farma-e-sngpc/utilizacao/impressao-dos-dados-da-receita.md)
   * [Remover integração](sngpc/integracao-farma-e-sngpc/remover-integracao.md)
+* [Oque seriam as movimentações?](sngpc/oque-seriam-as-movimentacoes.md)
 
 ## Duvidas SNGPC
 
